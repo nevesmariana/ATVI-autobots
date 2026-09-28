@@ -1,10 +1,3 @@
-Rodar no meu pc 
-cd C:\Users\creat\Desktop\atvi-autobots-microservico-spring\automanager
-set "JAVA_HOME=C:\Program Files (x86)\java\zulu17.68.203-ca-jdk17.0.20.1-win_x64\zulu17.68.203-ca-jdk17.0.20.1-win_x64"
-set "PATH=%JAVA_HOME%\bin;%PATH%"
-mvnw.cmd spring-boot:run
-versao do sistema, java, spring, etc, como rodar, sobre oq é, 
-
 # AutoManager - AutoBots
 
 Sistema desenvolvido para a atividade prática da disciplina, utilizando uma arquitetura baseada em Spring Boot para gerenciamento de clientes de uma empresa de manutenção veicular e venda de autopeças.
